@@ -1,5 +1,5 @@
 var updates = [
-    {message: "Welcome to the 3rd official release of Andyum!"}
+    {message: "© Copyright Aspec Foundation all rights reserved."}
 ];
 var updatespage = document.getElementById("updatespage");
 for(let item of updates) {
