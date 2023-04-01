@@ -1,4 +1,4 @@
-# Zaluea
+# Radon
 This is an official proxy of [ASPEC Network](https://discord.gg/8SDaUugBqu).
 
 ## Games
